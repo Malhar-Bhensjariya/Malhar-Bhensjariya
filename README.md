@@ -56,9 +56,9 @@
 
 <div align="center">
 
-<a href="https://github.com/Malhar-Bhensjariya" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:mcb110104@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 <a href="https://www.linkedin.com/in/malhar-bhensjariya-ab43932b5/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
