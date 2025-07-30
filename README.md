@@ -18,11 +18,11 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 15px" src="https://raw.githubusercontent.com/Malhar-Bhensjariya/Tech-icons/main/assets/java.png" alt="Java" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 15px" src="https://raw.githubusercontent.com/Malhar-Bhensjariya/Tech-icons/main/assets/tailwindcss.png" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 15px" src="https://raw.githubusercontent.com/Malhar-Bhensjariya/Tech-icons/main/assets/mongodb.png" alt="MongoDB" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 15px" src="https://raw.githubusercontent.com/Malhar-Bhensjariya/Tech-icons/main/assets/flask.png" alt="Flask" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 15px" src="https://raw.githubusercontent.com/Malhar-Bhensjariya/Tech-icons/main/assets/mysql.png" alt="MySQL" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 15px" src="https://raw.githubusercontent.com/Malhar-Bhensjariya/Tech-icons/main/assets/expressjs.png" alt="Express.js" height="50" /></a>
 </div>
 
