@@ -8,9 +8,9 @@
 
 ## My Skill Set
 
+### 🖥️ Web Development  
 <div align="center">
 
-### 🖥️ Frontend  
 <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>&nbsp;&nbsp;&nbsp;
@@ -22,17 +22,25 @@
 <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/Malhar-Bhensjariya/Tech-icons/main/assets/expressjs.png" alt="Express.js" height="40" /></a>
 
-<br/><br/>
+</div>
+
+<br/>
 
 ### 🤖 Machine Learning  
+<div align="center">
+
 <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://pytorch.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://keras.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>
 
-<br/><br/>
+</div>
+
+<br/>
 
 ### ⚙️ DevOps  
+<div align="center">
+
 <a href="https://cloud.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://kubernetes.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>&nbsp;&nbsp;&nbsp;
