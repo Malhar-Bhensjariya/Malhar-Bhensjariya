@@ -38,7 +38,7 @@
 
 <br/>
 
-### ⚙️ DevOps  
+### ♾️ DevOps  
 <div align="center">
 
 <a href="https://cloud.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>&nbsp;&nbsp;&nbsp;
@@ -52,7 +52,7 @@
 
 <br/>
 
-## 🔗 Connect with me  
+## 🌐 Connect with me  
 
 <div align="center">
 
